@@ -1,0 +1,1 @@
+import{d as o,e as n,o as r,c as t,a}from"./index-cacf28d8.js";const l=o({__name:"index",setup(s){return(c,p)=>{const e=n("x-progress");return r(),t("div",null,[a(e,{percentage:70,type:"dashboard",color:"black",isAnimation:!0})])}}});export{l as default};

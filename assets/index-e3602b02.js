@@ -1,0 +1,1 @@
+import{d as t,r as i,o,c as l,a as n,w as r,u as d,i as f,x as u,b as c}from"./index-cacf28d8.js";const m=t({__name:"index",setup(p){let e=i(!1);return(x,a)=>(o(),l("div",null,[n(u,{title:"选择图标",visiable:d(e),"onUpdate:visiable":a[0]||(a[0]=s=>f(e)?e.value=s:e=s)},{default:r(()=>[c(" 选择图标 ")]),_:1},8,["visiable"])]))}});export{m as default};
